@@ -252,6 +252,8 @@ Admin
 2. **Test**
 
    * Create PR with a vulnerable dependency → Ensure merge blocked.
+<img width="1181" height="626" alt="image" src="https://github.com/user-attachments/assets/76750a98-aaaa-4b1d-9485-0e0df7b3e815" />
+
 
 ---
 
@@ -282,6 +284,7 @@ git commit -m "Add bad Python code for Coderabbit test"
 git push https://PAT_TOKEN@github.com/DevOps-Challenge-Org-season2/sample-project.git coderabbit-test
 ```
 5.Create a PR → Check feedback in comments.
+<img width="1127" height="838" alt="image" src="https://github.com/user-attachments/assets/22598cb6-4cfe-4930-8d0d-199a7895e612" />
 
 ---
 
